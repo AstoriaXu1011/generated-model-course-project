@@ -1,3 +1,8 @@
+# MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
+
+MiniGPT-4 拥有许多与 GPT-4 类似的能力，例如生成详细的图像描述以及从手写草稿创建网站。MiniGPT-4 展现出其他一些新兴能力，包括根据给定的图像创作故事和诗歌、为图像中显示的问题提供解决方案、根据食物照片教用户如何烹饪等等。在我的 Project 中，我使用 MiniGPT-4 生成对于图像的描述。
+
+
 激活环境
 ```bash
 conda env create -f environment.yml
